@@ -291,6 +291,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [taskbook](https://github.com/klaussinani/taskbook) - Tasks, boards & notes for the command-line habitat.
 - [dnote](https://github.com/dnote/dnote) - A interactive, multi-device notebook.
 - [nb](https://github.com/xwmx/nb) - A note‑taking, bookmarking, archiving, and knowledge base application.
+- [h-m-m](https://github.com/nadrad/h-m-m) - a simple, fast, keyboard-centric tool for working with mind maps.
 
 ### Finance
 
